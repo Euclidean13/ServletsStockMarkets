@@ -1,0 +1,10 @@
+com/app/repository/services/Calculations.class
+com/app/repository/model/Summary.class
+com/app/repository/db/DBConnectionManager.class
+com/app/repository/model/Medias.class
+com/app/repository/model/Pearson.class
+com/app/repository/listener/AppContextListener.class
+com/app/repository/servlet/Servlet.class
+com/app/repository/model/Covariances.class
+com/app/repository/model/Entry.class
+com/app/repository/dao/DBRepository.class
